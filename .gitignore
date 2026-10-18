@@ -1,0 +1,11 @@
+# Ignorar ejecutables y enlaces de archivos
+*.exe
+*.ilk
+#Archivos de objetos y depuración
+*.obj
+*.pdb
+
+# Ignorar carpetas de Visual Studio Code
+.vscode/
+out/
+build/
